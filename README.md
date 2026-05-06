@@ -19,8 +19,17 @@ By importing this repository into a Code Ocean capsule, you will learn:
 
 3. Paste this repository URL.
 
-4. From here, load your enviornment + packages.
-5. Play around with the script by launching a **cloud workstation** or create a **Reproducible Run** by right clicking the script and selecting, "Set as the script to run".  
+4. From here, load your enviornment + packages. Click the "environment" tab, type Python in the search bar. Then, add the following packages:
+
++ pandas==2.2.1
++ numpy==1.26.4
++ matplotlib==3.8.3
++ seaborn==0.13.2
++ biopython==1.83
+
+5. Click and drag the "main.py" script to the **code/** folder and the "sample_expression.csv" to **data/**
+
+6. Play around with the script by launching a **cloud workstation** or create a **Reproducible Run** by right clicking the script and selecting, "Set as the script to run".  
 
 
 ## 📊 About the Analysis
