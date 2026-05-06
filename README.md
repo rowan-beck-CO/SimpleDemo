@@ -29,7 +29,7 @@ By importing this repository into a Code Ocean capsule, you will learn:
 
 5. Click and drag the "main.py" script to the **code/** folder and the "sample_expression.csv" to **data/**
 
-6. Play around with the script by launching a **cloud workstation** or create a **Reproducible Run** by right clicking the script and selecting, "Set as the script to run".  
+6. Play around with the script by launching a **cloud workstation** or create a **Reproducible Run** by right clicking the script and selecting, "Set as File To Run".  
 
 
 ## 📊 About the Analysis
